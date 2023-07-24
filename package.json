@@ -1,0 +1,25 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday greetings..",
+  "main": " ",
+  "scripts": {
+    "server-node": "http-server -p 8081"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pewiebe?tab=repositories"
+  },
+  "keywords": [
+    "Birthday"
+  ],
+  "author": "Samuel",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/pewiebe?tab=repositories"
+  },
+  "homepage": "#",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
